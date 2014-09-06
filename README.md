@@ -1,4 +1,4 @@
 BlackJack21-Multiplayer-Card-Game
 =================================
 
-Play Black Jack 21 among multiple players through LAN
+Play Black Jack - 21 card game among multiple players through LAN
