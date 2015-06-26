@@ -25,4 +25,4 @@ How to run this project:
 
 9.Connect the second client in similar manner.
 
-10.Finally enjoy the game play
+10.Finally enjoy the game play.
