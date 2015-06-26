@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/77/trunk/BlackJack_SADI/src/utility
+END
+BlackJackCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/77/trunk/BlackJack_SADI/src/utility/BlackJackCard.java
+END
+BlackJackHand.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/77/trunk/BlackJack_SADI/src/utility/BlackJackHand.java
+END
+BlackJackDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/BlackJack_SADI/src/utility/BlackJackDeck.java
+END
+TestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/BlackJack_SADI/src/utility/TestClass.java
+END
+ScoreBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/BlackJack_SADI/src/utility/ScoreBoard.java
+END
+GameStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/77/trunk/BlackJack_SADI/src/utility/GameStatus.java
+END
+Score.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/72/trunk/BlackJack_SADI/src/utility/Score.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/72/trunk/BlackJack_SADI/src/utility/Player.java
+END
