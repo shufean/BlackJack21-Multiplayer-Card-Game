@@ -18,18 +18,22 @@ How to run this project:
 5.In client side first run BlackjackClient.java to run the client which provide a graphical user interface to the user.
 
 6.Then enter the IP address of the main server.
+
 <img src="https://github.com/shufean/BlackJack21-Multiplayer-Client-Server-Application/blob/master/Screenshot/server_address.jpg" />
 
 
 7.Next enter the username name of the player.
+
 <img src="https://github.com/shufean/BlackJack21-Multiplayer-Client-Server-Application/blob/master/Screenshot/player_name.jpg" />
 
 
 8.When all the players are ready, click on the Start button.
+
 <img src="https://github.com/shufean/BlackJack21-Multiplayer-Client-Server-Application/blob/master/Screenshot/game_start_screen.jpg" />
 
 
 9.Connect to the second client in similar manner.
 
 10.Finally, enjoy the game play as long as you want.
+
 <img src="https://github.com/shufean/BlackJack21-Multiplayer-Client-Server-Application/blob/master/Screenshot/player_1_hand.jpg" />
