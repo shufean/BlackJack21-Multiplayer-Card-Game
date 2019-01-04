@@ -19,6 +19,8 @@ How to run this project:
 
 6.Then enter the IP address of the main server.
 
+<img src="https://github.com/shufean/BlackJack21-Multiplayer-Client-Server-Application/blob/master/Screenshot/server_address.jpg" />
+
 7.Next enter the username name of the player.
 
 8.When all the players are ready, click on the Start button.
