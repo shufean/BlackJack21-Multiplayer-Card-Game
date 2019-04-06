@@ -279,9 +279,9 @@ public class BlackjackClient extends JPanel {
 	}
 
 	protected static ImageIcon createImageIcon(String path, String description) {
-		java.net.URL imgURL = BlackjackClient.class.getResource(path);
-		if (imgURL != null) {
-			return new ImageIcon(imgURL, description);
+		// java.net.URL imgURL = BlackjackClient.class.getResource(path);
+		if (path != null) {
+			return new ImageIcon(path, description);
 		} else {
 			// incase image is not found print error message.
 			System.err.println("Couldn't find file: " + path);
