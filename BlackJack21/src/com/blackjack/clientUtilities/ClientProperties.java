@@ -7,9 +7,9 @@ public class ClientProperties {
 	
 	public static final String BACKGROUND_IMG = "cards/background1.jpg";
 	public static final String FONT = "Helvetica Bold";
-	public static final String CARD_DIRECTORY = "../cards/";
+	public static final String CARD_DIRECTORY = "cards/";
 	public static final String CARD_IMG_EXT = ".png";
-	public static final String CARD_BACKGROUND = "../cards/b1fv.png";
+	public static final String CARD_BACKGROUND = "cards/b1fv.png";
 	public static final String CLIENT_TITLE = "BlackJack";
 	
 	public static final String WINNING_MESSAGE = "++++++++ You Won! ++++++++";
